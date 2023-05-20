@@ -13,4 +13,4 @@ Bootstrap: 5.2.1
 
 
 Utilizacion del patron de diseño MVC(Modelo-Vista-Controlador) y POO(programacion Orientada a Objetos)
-phpdotenv usuado para la realizacion de .ENV y guardar la credencial
+phpdotenv usuado para la realizacion de .ENV y guardar las credenciales
